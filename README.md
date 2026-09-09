@@ -4,7 +4,6 @@
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-comas-in-range-ii/) | Medium | 2026-09-09 |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Medium | 2026-09-03 |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 2026-09-04 |
 
