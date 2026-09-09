@@ -11,9 +11,10 @@
 ## LeetHub Automatic Tracker
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 1 (Easy: 0, Medium: 1, Hard: 0)
+Solved: 2 (Easy: 1, Medium: 1, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-09 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-09 |
 <!-- LEETHUB:TABLE:END -->
