@@ -10,14 +10,15 @@
 ## LeetHub Automatic Tracker
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 6 (Easy: 4, Medium: 2, Hard: 0)
+Solved: 7 (Easy: 5, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-14 |
-| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-09-14 |
-| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-09-14 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-14 |
-| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-14 |
-| 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-09-14 |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-09-15 |
+| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-09-15 |
+| 836 | [Rectangle Overlap](836-rectangle-overlap/) | Easy | 2026-09-15 |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-09-15 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-15 |
+| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-09-15 |
+| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-15 |
 <!-- LEETHUB:TABLE:END -->
