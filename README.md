@@ -10,10 +10,11 @@
 ## LeetHub Automatic Tracker
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 18 (Easy: 15, Medium: 3, Hard: 0)
+Solved: 19 (Easy: 15, Medium: 4, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](94-binary-tree-inorder-traversal/) | Easy | 2026-10-29 |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-10-29 |
 | 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | Medium | 2026-10-29 |
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-29 |
@@ -31,5 +32,5 @@ Solved: 18 (Easy: 15, Medium: 3, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-29 |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | Easy | 2026-10-29 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-29 |
-| 94 | [Binary Tree Inorder Traversal](94-binary-tree-inorder-traversal/) | Easy | 2026-10-29 |
+| 96 | [Unique Binary Search Trees](96-unique-binary-search-trees/) | Medium | 2026-10-29 |
 <!-- LEETHUB:TABLE:END -->
